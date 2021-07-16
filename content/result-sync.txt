@@ -1,0 +1,4 @@
+result will contain:
+ This is the new test for text1., This is the new text file 2.result will contain:
+ This is the new test for text1., This is the new text file 2.result will contain:
+ This is the new test for text1., This is the new text file 2.
